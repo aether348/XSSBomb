@@ -1,0 +1,2 @@
+# XSSBomb
+xss payload generator
